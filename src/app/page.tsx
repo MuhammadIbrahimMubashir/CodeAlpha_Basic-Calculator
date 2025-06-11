@@ -67,9 +67,6 @@ export default function Home() {
 
   return (
     <div>
-      <div>
-        <title>Basic Calculator</title>
-      </div>
       <div className="flex items-center justify-center min-h-screen bg-gradient-to-tr from-purple-900 via-indigo-900 to-blue-900 p-6">
         <div className="backdrop-blur-lg bg-blue-950/70 rounded-3xl shadow-[0_8px_30px_rgb(0,0,0,0.3)] w-full max-w-md p-6 border border-indigo-300">
           <h1 className="text-center text-white text-4xl font-bold mb-6 tracking-wide drop-shadow-md">
